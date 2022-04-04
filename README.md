@@ -4,3 +4,7 @@ When the app starts, all contexts are registered under the global object using s
 context name, package name and major version.
 
 This example uses Next.js with SSR
+
+* yarn
+* yarn dev
+* navigate to path `/test`
